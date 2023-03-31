@@ -7,7 +7,7 @@
 - **자바 ORM 표준 JPA 프로그래밍**  - 김영한 저
 - http://www.yes24.com/Product/Goods/19040233
   
-  ## 목표
+## 목표
 - JPA 기초 배우기
 
 ## 활동 방안
