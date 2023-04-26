@@ -44,7 +44,7 @@
 ### Chap 2. JPA 시작
 - [무뇌] ( )
 - [스노우] (https://like099.tistory.com/119)
-- [은딩] ( )
+- [은딩] (https://dkan9634.tistory.com/156)
 - [진로] ( )
 
 ### Chap 3. 영속성 관리
