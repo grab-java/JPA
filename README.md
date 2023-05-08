@@ -51,7 +51,7 @@
 [진로] https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.3
 
 ### Chap 4. 엔티티 매핑
-[스노우] 
+[스노우](https://like099.tistory.com/123)
 [은딩] 
 [진로] 
 
