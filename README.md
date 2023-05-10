@@ -52,7 +52,7 @@
 
 ### Chap 4. 엔티티 매핑
 [스노우](https://like099.tistory.com/123)
-[은딩] 
+[은딩] (https://dkan9634.tistory.com/159)
 [진로] 
 
 ### Chap 5. 연관관계 매핑 기초
