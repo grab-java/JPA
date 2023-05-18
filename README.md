@@ -34,35 +34,35 @@
 ## 발표 자료
 - [닉네임] (블로그 주소)
 ### Chap 1. JPA 소개
-- [스노우] (https://like099.tistory.com/117)
-- [은딩] (https://dkan9634.tistory.com/155)
-- [진로] (https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.1)
+- [스노우](https://like099.tistory.com/117)
+- [은딩](https://dkan9634.tistory.com/155)
+- [진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.1)
 
 ### Chap 2. JPA 시작
-- [스노우] (https://like099.tistory.com/119)
-- [은딩] (https://dkan9634.tistory.com/156)
-- [진로] (https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.2 )
+- [스노우](https://like099.tistory.com/119)
+- [은딩](https://dkan9634.tistory.com/156)
+- [진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.2 )
 
 ### Chap 3. 영속성 관리
 [스노우](https://like099.tistory.com/121)
 
-[은딩] https://dkan9634.tistory.com/158
+[은딩](https://dkan9634.tistory.com/158)
 
-[진로] https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.3
+[진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.3)
 
 ### Chap 4. 엔티티 매핑 - 1
 [스노우](https://like099.tistory.com/123)
 
-[은딩] (https://dkan9634.tistory.com/159)
+[은딩](https://dkan9634.tistory.com/159)
 
-[진로] https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.4-1
+[진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.4-1)
 
 ### Chap 4. 엔티티 매핑 - 2
 [스노우]
 
-[은딩] https://dkan9634.tistory.com/160
+[은딩](https://dkan9634.tistory.com/160)
 
-[진로]
+[진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.4-2)
 
 ### Chap 5. 연관관계 매핑 기초
 [스노우] 
