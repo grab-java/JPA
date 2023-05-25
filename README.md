@@ -44,49 +44,43 @@
 - [진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.2 )
 
 ### Chap 3. 영속성 관리
-[스노우](https://like099.tistory.com/121)
-
-[은딩](https://dkan9634.tistory.com/158)
-
-[진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.3)
+- [스노우](https://like099.tistory.com/121)
+- [은딩](https://dkan9634.tistory.com/158)
+- [진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.3)
 
 ### Chap 4. 엔티티 매핑 - 1
-[스노우](https://like099.tistory.com/123)
-
-[은딩](https://dkan9634.tistory.com/159)
-
-[진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.4-1)
+- [스노우](https://like099.tistory.com/123)
+- [은딩](https://dkan9634.tistory.com/159)
+- [진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.4-1)
 
 ### Chap 4. 엔티티 매핑 - 2
-[스노우](https://like099.tistory.com/123)
-
-[은딩](https://dkan9634.tistory.com/160)
-
-[진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.4-2)
+- [스노우](https://like099.tistory.com/123)
+- [은딩](https://dkan9634.tistory.com/160)
+- [진로](https://velog.io/@gourd_erased/JPA-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ch.4-2)
 
 ### Chap 5. 연관관계 매핑 기초
-[스노우](https://like099.tistory.com/124)
-[은딩] 
-[진로] 
+- [스노우](https://like099.tistory.com/124)
+- [은딩](https://dkan9634.tistory.com/161)
+- [진로] 
 
 ### Chap 6. 다양한 연관관계 매핑
-[스노우] 
-[은딩] 
-[진로] 
+- [스노우] 
+- [은딩] 
+- [진로] 
 
 ### Chap 7. 고급 매핑
-[스노우] 
-[은딩] 
-[진로] 
+- [스노우] 
+- [은딩] 
+- [진로] 
 
 ### Chap. 8. 프록시와 연관관계 관리
-[스노우] 
-[은딩] 
-[진로] 
+- [스노우] 
+- [은딩] 
+- [진로] 
 
 ### Chap. 9. 값 타입
-[스노우] 
-[은딩] 
-[진로] 
+- [스노우] 
+- [은딩] 
+- [진로] 
 
 !-----10주차까지의 목표-----!
