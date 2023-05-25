@@ -61,7 +61,7 @@
 ### Chap 5. 연관관계 매핑 기초
 - [스노우](https://like099.tistory.com/124)
 - [은딩](https://dkan9634.tistory.com/161)
-- [진로] 
+- [진로](https://www.notion.so/ac96c187d43c4455b80127b8d6af48d7?pvs=4)
 
 ### Chap 6. 다양한 연관관계 매핑
 - [스노우] 
